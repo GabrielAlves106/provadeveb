@@ -1,0 +1,22 @@
+h1 {
+    font-size: 16px;
+}
+
+p {
+    text-align: justify;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img {
+    width: 10%; 
+    text-align: center;
+}
+
+
+
+
+
